@@ -12,6 +12,8 @@ import Vinyle from './pages/Vinyle';
 import Listen from './pages/Listen';
 import Shop from './pages/Shop';
 import Contact from './pages/Contact';
+import Cart from './pages/Cart';
+
 
 function App() {
   return (
@@ -24,6 +26,7 @@ function App() {
           <Route path="/collection" element={<Collection />} />
           <Route path="/vinyle/:id" element={<Vinyle />} />
           <Route path="/listen" element={<Listen />} />
+          <Route path="/cart" element={<Cart />} />
           <Route path="/shop" element={<Shop />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
