@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "From Chains to Blues",
+    "price": 29.9,
+    "status": "En précommande",
+    "cover": "/assets/vinyle1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Fire Next Time",
+    "price": 29.9,
+    "status": "En préparation",
+    "cover": "/assets/vinyle2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Black Is Beautiful",
+    "price": 29.9,
+    "status": "Bientôt disponible",
+    "cover": "/assets/vinyle3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "A Change Gonna Come Worldwide",
+    "price": 29.9,
+    "status": "En précommande",
+    "cover": "/assets/vinyle4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Islands of Resistance",
+    "price": 29.9,
+    "status": "En préparation",
+    "cover": "/assets/vinyle5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Diaspora Rising",
+    "price": 29.9,
+    "status": "Bientôt disponible",
+    "cover": "/assets/vinyle6.jpg"
+  }
+]

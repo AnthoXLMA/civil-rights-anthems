@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "titre": "From Chains to Blues",
+    "artiste": "Compilation",
+    "description": "Des work songs et spirituals aux premiers blues du Delta : la naissance d'une culture musicale issue de l'esclavage et de la quête de liberté.",
+    "cover": "/assets/from-chains-to-blues.jpg",
+    "tracks": [
+      "Work Song – Traditional",
+      "Spiritual – Traditional",
+      "Early Delta Blues – Unknown Artist",
+      "Call and Response Chant",
+      "Field Holler"
+    ],
+    "spotify": "",
+    "youtube": "",
+    "context": {
+      "period": "1600 – début XXe siècle",
+      "events": [
+        "Esclavage et travail forcé dans les plantations du Sud des États-Unis",
+        "Chants de travail et spirituals comme forme de résistance culturelle",
+        "Début du blues delta et premières enregistrements d’artistes noirs",
+        "Développement d’une identité musicale afro-américaine",
+        "Figures emblématiques : Robert Johnson, Blind Lemon Jefferson"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "titre": "The Fire Next Time",
+    "artiste": "Compilation",
+    "description": "La bande-son du mouvement des droits civiques aux États-Unis : soul militante, gospel et chants de marche.",
+    "cover": "/assets/the-fire-next-time.jpg",
+    "tracks": [
+      "Freedom Song",
+      "March Chant",
+      "Protest Soul",
+      "Gospel of Change",
+      "We Shall Overcome – Version"
+    ],
+    "spotify": "",
+    "youtube": "",
+    "context": {
+      "period": "1950 – 1960",
+      "events": [
+        "Mouvement des droits civiques aux États-Unis",
+        "Brown v. Board of Education (1954) : ségrégation scolaire interdite",
+        "Boycott des bus de Montgomery (1955-56)",
+        "Marches pour les droits civiques à Washington et Selma",
+        "Assassinats de leaders : Malcolm X (1965), JFK (1963), MLK (1968)",
+        "Artistes : Sam Cooke, Nina Simone, Curtis Mayfield, The Staple Singers"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "titre": "Black is Beautiful",
+    "artiste": "Compilation",
+    "description": "Funk, soul politique et fierté noire : affirmation identitaire et puissance créative de la période Black Power.",
+    "cover": "/assets/black-is-beautiful.jpg",
+    "tracks": [
+      "Afro Funk Theme",
+      "Power to the People",
+      "Soul of Pride",
+      "Funk Liberation",
+      "Afrocentric Groove"
+    ],
+    "spotify": "",
+    "youtube": "",
+    "context": {
+      "period": "fin 1960s – 1970s",
+      "events": [
+        "Mouvement Black Power et affirmation identitaire",
+        "Montée du funk et de la soul politique",
+        "Manifestations et événements sportifs marquants : poing levé aux JO 1968",
+        "Artistes emblématiques : James Brown, Funkadelic, Gil Scott-Heron",
+        "Émergence d’une fierté culturelle et afrocentrique dans la musique et la mode"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "titre": "A Change Gonna Come Worldwide",
+    "artiste": "Compilation",
+    "description": "Les musiques des indépendances africaines : afrobeat, highlife, rumba congolaise et ethio-jazz.",
+    "cover": "/assets/a-change-gonna-come-worldwide.jpg",
+    "tracks": [
+      "Highlife Celebration",
+      "Independence Rumba",
+      "Early Afrobeat Groove",
+      "Sahara Brass Band",
+      "Ethio Jazz Theme"
+    ],
+    "spotify": "",
+    "youtube": "",
+    "context": {
+      "period": "1950s – 1970s",
+      "events": [
+        "Indépendances des pays africains (Ghana 1957, Congo 1960...)",
+        "Afrobeat, Highlife, Rumba congolaise et Ethio-jazz comme vecteurs politiques",
+        "Figures emblématiques : Fela Kuti, Manu Dibango, Mulatu Astatke",
+        "Manifestations artistiques contre le colonialisme et pour la liberté",
+        "Liens musicaux avec la diaspora afro-américaine"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "titre": "Islands of Resistance",
+    "artiste": "Compilation",
+    "description": "Les Caraïbes comme laboratoire politique et musical : reggae, dub, calypso, kompa engagé.",
+    "cover": "/assets/islands-of-resistance.jpg",
+    "tracks": [
+      "Roots Reggae Anthem",
+      "Dub Version",
+      "Calypso Story",
+      "Revolutionary Ska",
+      "Kompa Resistance"
+    ],
+    "spotify": "",
+    "youtube": "",
+    "context": {
+      "period": "1960s – 1980s",
+      "events": [
+        "Mouvements d’indépendance et post-colonialité en Jamaïque, Haïti, Trinidad et Cuba",
+        "Reggae engagé et dub comme moyens de protestation",
+        "Artistes emblématiques : Bob Marley, Burning Spear, Compay Segundo",
+        "Émergence de la conscience noire et des revendications sociales dans la musique",
+        "Événements culturels : carnaval, festivals de musique caribéenne"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "titre": "Diaspora Rising",
+    "artiste": "Compilation",
+    "description": "La diaspora noire contemporaine : rap, néo-soul et jazz moderne de Londres à Paris, sous le signe de Black Lives Matter.",
+    "cover": "/assets/diaspora-rising.jpg",
+    "tracks": [
+      "Urban Jazz Flow",
+      "Conscious Rap",
+      "Neo Soul Dream",
+      "Spoken Word Street",
+      "BLM Tribute"
+    ],
+    "spotify": "",
+    "youtube": "",
+    "context": {
+      "period": "1980s – aujourd’hui",
+      "events": [
+        "Émergence du rap, néo-soul et jazz contemporain en Europe et aux États-Unis",
+        "Lutte contre le racisme et mouvements Black Lives Matter",
+        "Événements emblématiques : meurtre de George Floyd (2020), manifestations mondiales",
+        "Artistes : Kendrick Lamar, Lauryn Hill, Erykah Badu, Stromae",
+        "Influence des diasporas africaines et caribéennes sur la musique contemporaine"
+      ]
+    }
+  }
+]
