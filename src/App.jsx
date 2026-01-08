@@ -13,6 +13,8 @@ import Listen from './pages/Listen';
 import Shop from './pages/Shop';
 import Contact from './pages/Contact';
 import Cart from './pages/Cart';
+import Timeline from './pages/Timeline';
+
 
 
 function App() {
@@ -24,6 +26,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/collection" element={<Collection />} />
+          <Route path="/timeline" element={<Timeline />} />
           <Route path="/vinyle/:id" element={<Vinyle />} />
           <Route path="/listen" element={<Listen />} />
           <Route path="/cart" element={<Cart />} />
