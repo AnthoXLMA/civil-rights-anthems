@@ -16,6 +16,10 @@ function Header() {
         <Link to="/" className="hover:text-amber-400 transition">Home</Link>
         <Link to="/collection" className="hover:text-amber-400 transition">Collection</Link>
         <Link to="/listen" className="hover:text-amber-400 transition">Listen</Link>
+        {/* 👉 nouveau lien frise / timeline */}
+        <Link to="/timeline" className="hover:text-amber-400 transition">
+          Chronologie
+        </Link>
         <Link to="/about" className="hover:text-amber-400 transition">About</Link>
         <Link to="/cart" className="hover:text-amber-400 transition relative flex items-center">
         <ShoppingCartIcon className="w-6 h-6 mr-1" />
